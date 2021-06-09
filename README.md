@@ -1,9 +1,9 @@
-### Hi I'm Sneha Tyagi and here are some things about me ,
+### Hi I'm Sneha and here are a few things about me.
 
-- 🔭 I’m currently working on improving little things. 
-- 🌱 I’m currently learning intermediate-level Python.
+- 🔭 I’m currently working on improving the tiniest of things. 
+- 🌱 I’m trying to develop my python skills.
 - 👯 I’m looking to collaborate on various Backend projects in Python and SQL.
-- 🤔 I’m looking for help with fixing bugs and errors at times, maybe.
+- 🤔 I’m looking for help with fixing bugs and errors at times.
 - 💬 Ask me if you need help with something.
 
 
